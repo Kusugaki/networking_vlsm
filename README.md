@@ -1,3 +1,5 @@
+[Link to code](https://github.com/Kusugaki/networking_vlsm/blob/main/VLSM.py)
+
 # Automatic VLSM IP Address Calculator?
 
 ## Crammed in under 3 hours to be lazy :D
