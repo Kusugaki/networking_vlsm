@@ -57,6 +57,8 @@ class VLSM:
     def get_required_subnet(self, actualHosts:list[int] ) -> str:
         total_city_hosts:dict[int:int] = {}
 
+        print(self.__str__(), "\n")
+        
         # TURN LIST INTO DICTIONARY
         for i in actualHosts: total_city_hosts[i] = 0
 
@@ -72,7 +74,6 @@ class VLSM:
 
             print(f"{requiredHosts = }, actualHosts 2^{i}-2 = {total_city_hosts.get(requiredHosts)}")
         
-        print(self.__str__())
 
         return sum(total_city_hosts.values())
     
