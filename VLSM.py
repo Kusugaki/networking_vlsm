@@ -57,7 +57,7 @@ class VLSM:
     def get_required_subnet(self, actualHosts:list[int] ) -> str:
         total_city_hosts:dict[int:int] = {}
 
-        print(self.__str__(), "\n")
+        print(self.__str__())
         
         # TURN LIST INTO DICTIONARY
         for i in actualHosts: total_city_hosts[i] = 0
