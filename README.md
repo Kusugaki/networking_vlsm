@@ -16,4 +16,4 @@
 
 ## THIS HAS BEEN FIXED!!!!!!
 
-### The last two cities, Ontario and Toronto under "activity()" is wrong... too lazy to fix :P
+### The last two cities, Ontario and Toronto under "activity()" is wrong... (was) too lazy to fix :P
