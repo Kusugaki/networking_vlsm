@@ -101,7 +101,7 @@ class VLSM:
         modulo_bits = networkBits % 8
         
         if modulo_bits == 0:
-            return 128
+            return 1
         
         # REVERSE THE COUNT TO MAKE IT GO RIGHT TO LEFT
         modulo_bits = 8 - modulo_bits
