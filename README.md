@@ -11,9 +11,3 @@
 | 10.0.0.0           |     10.0.0.1     |  10.0.64.254    |        10.0.64.255   |
 
 ### Amongst other things...
-
-# 🔥🔥🔥🔥 NOTE!!!!!!!!!
-
-## THIS HAS BEEN FIXED!!!!!!
-
-### The last two cities, Ontario and Toronto under "activity()" is wrong... (was) too lazy to fix :P
